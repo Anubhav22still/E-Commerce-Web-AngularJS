@@ -28,6 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 developer- Anubhav Varshney
 contact- Anubhavvarshneyttt@gmail.com
-
-developer- Anubhav Varshney 
-contact - Anubhavvarshneyttt@gmail.com
